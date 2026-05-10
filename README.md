@@ -74,7 +74,7 @@ The goal is to demonstrate the ability to:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/te-aihub-intern-assignment-arun-kumar.git
+git clone https://github.com/Arun-sahukar/te-aihub-intern-assignment-arun-kumar.git
 cd te-aihub-intern-assignment-arun-kumar
 
 # 2. Start Label Studio using Docker Compose
