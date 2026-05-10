@@ -1,0 +1,29 @@
+# Label Studio data (if running with local volume)
+mydata/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Don't ignore these important files
+!exports/.gitkeep
+!screenshots/.gitkeep
+!exports/label_studio_export.json
+!exports/coco_format/
+!exports/yolo_format/

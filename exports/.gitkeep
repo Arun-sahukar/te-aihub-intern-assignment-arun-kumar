@@ -1,0 +1,2 @@
+# This file ensures the exports directory is tracked by git
+# Place your label_studio_export.json file here after exporting from Label Studio

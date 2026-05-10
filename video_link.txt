@@ -1,0 +1,19 @@
+# Demo Video Link
+
+Google Drive Video Link: [ADD YOUR GOOGLE DRIVE LINK HERE]
+
+Example format: https://drive.google.com/file/d/XXXXX/view?usp=sharing
+
+## Video Checklist
+Before submitting, ensure your video shows:
+[ ] Docker running Label Studio
+[ ] Label Studio project page with "BCCD Annotation Assignment"
+[ ] The configured labels: RBC, WBC, Platelets
+[ ] At least one annotated image with bounding boxes
+[ ] Where the annotation export is stored in your repo
+[ ] Quick walkthrough of README and how to reproduce
+
+## Video Requirements
+- Maximum length: 3 minutes
+- Format: MP4, MOV, or similar
+- Ensure the video is accessible (set sharing to "Anyone with the link can view")
