@@ -234,7 +234,7 @@ Screenshots are located in the `screenshots/` folder:
 
 ## Demo Video
 
-**Google Drive Link**: [ADD YOUR VIDEO LINK HERE]
+**Google Drive Link**:https://drive.google.com/file/d/1OigOKACqJ9xUoa707G70zwqJZG2jJ-MR/view?usp=drive_link
 
 Also available in: [video_link.txt](video_link.txt)
 
